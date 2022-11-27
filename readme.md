@@ -1,5 +1,10 @@
 # eye tracking 2022 project
 
+* [ ] reading the dataset
+* [ ] Fixation detection algorithm
+* [ ] visualization of results
+* [ ] report
+
 Tasks:
 
 1 - Load the raw data for the subjects assigned to your group. Perform fixation detection using an algorithm of your choice (pick the one you selected in the homeworks) and the deep learning model (U'n'Eye) from the Event detection and fixation generation module. Try two distinct settings for your algorithm and compare the results between the two settings and the U'n'Eye output. Compare the differences in terms of how many fixations were detected and what were the average fixation durations. You can also come up with other ways of comparing the detection performance.
