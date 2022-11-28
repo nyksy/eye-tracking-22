@@ -17,7 +17,7 @@ A mean fixation duration (MFD) is the sum of durations of all fixations belongin
 
 3 - Create a csv file with the following structure and header, named according to your group, and fill in the resulting data for all subject ids assigned to your group:
 
-subject_id   MFD_true MFD_SD_true MFD_false MFD_SD_false MSA_true MSA_SD_true MSA_false MSA_SD_false MFD_overall MFD_overall_SD MSA_overall MSA_overall_SD
+subject_id MFD_true MFD_SD_true MFD_false MFD_SD_false MSA_true MSA_SD_true MSA_false MSA_SD_false MFD_overall MFD_overall_SD MSA_overall MSA_overall_SD
 
 ... ... ... ... ... ...
 
