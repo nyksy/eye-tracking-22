@@ -1,7 +1,7 @@
 # eye tracking 2022 project
 
-* [ ] reading the dataset
-* [ ] Fixation detection algorithm
+* [x] reading the dataset
+* [x] Fixation detection algorithm
 * [ ] visualization of results
 * [ ] report
 
