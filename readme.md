@@ -2,8 +2,10 @@
 
 - [x] reading the dataset
 - [x] Fixation detection algorithm
-- [ ] visualization of results
-- [ ] report
+- [x] visualization of results
+- [x] report
+
+![scatter](plots/MFD_MSA.png)
 
 ## Tasks
 
